@@ -1,0 +1,2 @@
+﻿titulo=Mi app
+version=1.0
