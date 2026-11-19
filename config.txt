@@ -1,2 +1,2 @@
-﻿titulo=Mi app
-version=1.0
+﻿titulo=Mi app oficial
+version=2.0
