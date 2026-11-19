@@ -1,2 +1,6 @@
-﻿titulo=Mi app
-version=1.0
+HEAD
+﻿titulo=Mi app oficial
+version=2.0
+﻿titulo=Mi app login
+version=2.0
+7c3bcb9 (feat: actualiza config para login)
